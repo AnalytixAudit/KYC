@@ -8,7 +8,7 @@ All projects that have obtained an audit certificate from us have followed these
 
 • Upload a selfie to our verification partner Veriff
 
-After Approvation from Veriff:
+**After Approvation from Veriff ✅**:
 
 • We ask for an identification video from the owner of the project that contains following data:
 
