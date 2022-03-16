@@ -15,7 +15,7 @@ After Approvation from Veriff:
 "I am the owner of the project , My name is "" and surname is "" I was born in "(Country where you born)" and live in the state of "_(Country where you live)" I am responsible for any scam, or rugpull, action for the project linked to the token "____(Name of your token)" And I authorize my data collected before and at the end of this verification to be shared online and on social media if Analytix Team notice any scam activities.
 
 
-##### How to submit report scam?
+#### How to submit report scam?
 
 
 If a project we have KYCed out with scam activities, we will release the documents and KYC proof on social media / website.
