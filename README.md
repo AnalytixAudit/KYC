@@ -2,7 +2,7 @@
 
 #### KYC Procedure:
 
-All projects that have obtained an audit certificate from us have followed these steps:
+All projects that have obtained a KYC certificate from us have followed these steps:
 
 • Upload ID / Passport / Driver License / Resident Permit to our verification partner Veriff
 
