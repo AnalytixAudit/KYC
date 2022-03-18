@@ -2,7 +2,7 @@
 
 #### How to request KYC?
 
-To apply for our KYC just dm t.me/FreddyCryptos on telegram, please verify telegram on our official telegram group t.me/AnalytixAudit
+To apply for our KYC just dm @FreddyCryptos on telegram, please verify telegram on our official telegram group @AnalytixAudit
 
 #### KYC Procedure:
 
