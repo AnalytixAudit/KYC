@@ -4,21 +4,6 @@
 
 To apply for our KYC just dm @FreddyCryptos on telegram, please verify telegram on our official telegram group @AnalytixAudit
 
-#### KYC Procedure:
-
-All projects that have obtained a KYC certificate from us have followed these steps:
-
-• Upload ID / Passport / Driver License / Resident Permit to our verification partner Veriff
-
-• Upload a selfie to our verification partner Veriff
-
-**After Approvation from Veriff ✅**:
-
-• We ask for an identification video from the owner of the project that contains following data:
-
-"I am the owner of the project , My name is "" and surname is "" I was born in "(Country where you born)" and live in the state of "_(Country where you live)" I am responsible for any scam, or rugpull, action for the project linked to the token "____(Name of your token)" And I authorize my data collected before and at the end of this verification to be shared online and on social media if Analytix Team notice any scam activities.
-
-
 #### How to submit report scam?
 
 
